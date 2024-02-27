@@ -16,6 +16,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "makeiteasierapps",
+      "name": "Shaun Offenbacher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130625311?v=4",
+      "profile": "https://shauno.co",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
