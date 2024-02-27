@@ -56,6 +56,14 @@ Adeus consists of 3 parts:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kodjima33"><img src="https://avatars.githubusercontent.com/u/43514161?v=4?s=100" width="100px;" alt="Nik Shevchenko"/><br /><sub><b>Nik Shevchenko</b></sub></a><br /><a href="#test-kodjima33" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andywill222"><img src="https://avatars.githubusercontent.com/u/122667149?v=4?s=100" width="100px;" alt="andywill222"/><br /><sub><b>andywill222</b></sub></a><br /><a href="#code-andywill222" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
