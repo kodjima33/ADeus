@@ -16,6 +16,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "roocell",
+      "name": "roocell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/642636?v=4",
+      "profile": "https://github.com/roocell",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
