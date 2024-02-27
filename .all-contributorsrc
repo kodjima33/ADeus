@@ -16,6 +16,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "Krupskis",
+      "name": "Krupskis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44723913?v=4",
+      "profile": "https://github.com/Krupskis",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
