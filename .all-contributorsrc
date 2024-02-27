@@ -16,6 +16,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "Jacksonmills",
+      "name": "JEM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19780885?v=4",
+      "profile": "https://www.jacksonemills.com",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
